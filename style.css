@@ -1,0 +1,43 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 10px rgb(134, 5, 91);
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:rgb(228, 161, 161);
+}
+
+.note
+{
+    font-size: 15px;
+    color:brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.footer
+{
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    background-color: cornflowerblue;
+    color: black;
+    bottom: 0;
+    line-height: 3;
+}
+
+canvas
+{
+    border: 5px dashed darkslateblue;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgb(120, 221, 153)
+}
+
+body
+{
+
+    background-size: cover;
+
+}
